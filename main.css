@@ -2,6 +2,30 @@
   border-top-color: #f00;
 }
 
+#orange { 
+  border-top-color: #f00;
+}
+
+#yellow { 
+  border-top-color: #f00;
+}
+
+#green { 
+  border-top-color: #f00;
+}
+
+#blue { 
+  border-top-color: #f00;
+}
+
+#indigo { 
+  border-top-color: #f00;
+}
+
+#violet { 
+  border-top-color: #f00;
+}
+
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
